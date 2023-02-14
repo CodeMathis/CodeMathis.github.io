@@ -1,1 +1,28 @@
 titre: 'Contact'
+
+zone_texte:
+  - pre_texte: "Votre nom et prénom:"
+    balise: '<input class="cadre_input_et_textarea" type="text" name="nom_prenom" value="" placeholder="John Doe">'
+
+  - pre_texte: "Adresse mail:"
+    balise: '<input class="cadre_input_et_textarea" required="required" type="text" name="mail" value="" placeholder="mail@mail.com">'
+
+  - pre_texte: "Objet du message:"
+    balise: '<input class="cadre_input_et_textarea" type="text" name="objet" value="" placeholder="Exemple : Important !">'
+
+  - pre_texte: "Votre message:"
+    balise: '<textarea id="textarea_resize" class="cadre_input_et_textarea" required="required" name="message" rows="6" cols="40" placeholder="Vous pouvez saisir un message ici."></textarea>'
+
+liste_contact:
+  - bulle:
+    - '<p>[📧] Email: mathis.ravier@orange.fr</p>'
+    - '<p>[📞] Téléphone: 06 19 81 84 25</p>'
+
+  - bulle:
+    - '<p>[<img src="img/instagram.png" alt="image instagram">] Instagram: met_meza</p>'
+    - '<p>[<img src="img/fbk.png" alt="image facebook">] Facebook: met_meza</p>'
+    - '<p>[<img src="img/discord.png" alt="image discord">] Discord: met_meza#6393</p>'
+
+  - bulle:
+    - '<p>[💻] Github: <a href="https://github.com/CodeMathis" target="_blank">https://github.com/...</a></p>'
+    - '<p>[🌐] LinkedIn: <a href="https://www.linkedin.com/in/mathis-ravier-46a680257" target="_blank">https://www.linkedin.com/...</a></p>'

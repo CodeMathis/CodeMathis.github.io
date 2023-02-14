@@ -5,18 +5,19 @@ citation: '«Tout Le Monde Peut Peindre Un Beau Tableau Avec L’aide D’un Bon
 logos:
   - src: 'img/instagram.png'
     alt: 'logo instagram'
-    link: 'https://www.instagram.com'
+    link: 'https://www.instagram.com/met_meza'
 
   - src: 'img/fbk.png'
     alt: 'logo facebook'
-    link: 'https://www.facebook.com'
+    link: 'https://www.facebook.com/met.meza.5'
 
   - src: 'img/discord.png'
     alt: 'logo discord'
-    link: 'https://discord.com'
+    link: '#background6'
 
   - src: 'img/mail.png'
     alt: 'logo mail'
-    link: 'https://mail.google.com'
+    link: '#background6'
 
-nouveaute: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum curabitur vitae nunc sed velit dignissim.'
+nouveaute: "- Recherche d'un stage de 5 semaines<br>- Mise à jour de la page 'Voir tout' pour mes expériences et travaux<br>- Recherche d'hébergeur pour le site"
+nouveaute_img: "img/news.png"

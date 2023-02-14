@@ -1,14 +1,14 @@
+titre: 'MATHIS CODE'
+
 text_barmenu:
-  - 'MATHIS CODE'
-
-  - 'Contact'
-
-  - 'Formation'
-
-  - 'Expérience'
-
-  - 'Compétences'
+  - 'Accueil'
 
   - 'À propos'
 
-  - 'Accueil'
+  - 'Compétences'
+
+  - 'Expériences'
+
+  - 'Formation'
+
+  - 'Contact'
